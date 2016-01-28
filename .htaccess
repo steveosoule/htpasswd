@@ -1,0 +1,8 @@
+# user: super
+# pass: secret
+
+AuthType Basic
+AuthName "Super Secret Place"
+# use the helper.php to help you get the full path for the AuthUserFile
+AuthUserFile /full/path/to/.htpasswd
+Require valid-user
