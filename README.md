@@ -1,0 +1,2 @@
+# htpasswd
+Basic htpasswd configuration
